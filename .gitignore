@@ -1,0 +1,43 @@
+# Laravel core
+/vendor/
+/node_modules/
+.env
+.env.*
+.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+/.vagrant
+
+# Frontend build artifacts
+/public/hot
+/public/storage
+/storage/*.key
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/bootstrap/cache/*
+/npm-debug.log
+/yarn-error.log
+/pnpm-debug.log
+
+# IDE/editor files
+/.idea/
+/.vscode/
+/*.sublime-project
+/*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives and backups
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Misc
+composer.lock
+package-lock.json
+vite.config.js.timestamp*
