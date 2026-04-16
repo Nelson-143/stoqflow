@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Laravel-10.0-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
 </div>
 
-# **Wense inventories**
+# **StoqFlow**
 
 ## **🚀Running the Project**
 
@@ -21,7 +21,7 @@
 - 1. Clone the repository: 
 
     ```bash
-    git clone https://github.com/Nelson-143/rsmstores.git
+    git clone https://github.com/Nelson-143/stoqflow.git
     ```
 
 - 2. Navigate to the project folder:
@@ -63,6 +63,6 @@
     ```
 
 ## **🤝Contribution  **
-wense
+StoqFlow
 We welcome contributions from the community.
-proudly powered by roman-opensource
+proudly powered by romansofts
